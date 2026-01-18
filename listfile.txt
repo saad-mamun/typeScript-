@@ -1,0 +1,12 @@
+ npm init -y
+
+ npm install -g typescript
+
+ npx tsc --init
+
+
+
+  "start": "node dist/index.js",
+  "dev":"npx tsc"
+  othoba
+  dev: npx ts-node src/index.ts
