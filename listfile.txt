@@ -10,3 +10,9 @@
   "dev":"npx tsc"
   othoba
   dev: npx ts-node src/index.ts
+
+
+
+
+
+  npm i -D @types/any-library
