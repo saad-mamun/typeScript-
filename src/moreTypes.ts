@@ -6,7 +6,7 @@ type Book = {
 };
 let bookString = '{"name" : "Who moved my cheese"}';
 let bookObject = JSON.parse(bookString) as Book;
-console.log(BookObject);
+console.log(bookObject);
 const inputElement = document.getElementById("username") as HTMLInputElement;
 
 let value: any;

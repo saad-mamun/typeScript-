@@ -12,6 +12,19 @@ function serveChai(order: ChaiOrder ) {
     console.log(order)
 }
 
+
+type MyFamily = {
+    name:string;
+    brother:string;
+    sister:string
+}
+const f1 : MyFamily = {
+    name:"Liton",
+    brother:"Milon",
+    sister: "Memi"
+}
+console.log(f1)
+
 // Jokhon number string boolean likha lage tokhon type use kora lage;
 type TeaRecipe = {
     water: number;
@@ -33,7 +46,7 @@ class Chai implements CupSize{
 };
 
 
-//  | sign dia bujshi je kono akta hobe. ara OR  er moto kaj kore
+//  | sign dia bujshi je kono akta hobe. ata OR  er moto kaj kore
 // TeaType line ta k litarel type bola hoy..
 type TeaType = "Masala" | 'ginger'| 'lemon';
 function orderChai(t: TeaType){
