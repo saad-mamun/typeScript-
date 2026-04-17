@@ -13,17 +13,7 @@ function serveChai(order: ChaiOrder ) {
 }
 
 
-type MyFamily = {
-    name:string;
-    brother:string;
-    sister:string
-}
-const f1 : MyFamily = {
-    name:"Liton",
-    brother:"Milon",
-    sister: "Memi"
-}
-console.log(f1)
+
 
 // Jokhon number string boolean likha lage tokhon type use kora lage;
 type TeaRecipe = {

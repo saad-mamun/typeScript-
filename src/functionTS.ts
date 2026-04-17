@@ -3,6 +3,12 @@ function makeChai(type: string, cup: number){
 }
 makeChai("Lemon", 4);
 
+function newTea(type: string, price:number):string {
+    return `Making ${type} with price ${price}`
+}
+
+newTea("Lemon", 15);
+
 
 function getChaiPrice() : number {
     return 25
