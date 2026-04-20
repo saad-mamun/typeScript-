@@ -16,6 +16,8 @@ const cities: readonly string[] = ["Dhaka", "Rajshahi"];
 // cities.push("D");
 
 
+
+
 // to-dymention array
 const table: number[][] = [
   [1, 2, 3],
