@@ -55,6 +55,13 @@ const u: User = {
   name: "Liton",
   age: 22,
 };
+interface NUser {
+  age: number;
+}
+const user: User = {
+  name: "Liton",
+  age: 22,
+};
 
 interface A {
   a: string;
