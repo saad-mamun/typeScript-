@@ -9,6 +9,17 @@ tea = {
   isHot: false,
 };
 
+let Tech: {
+  name: string;
+  price: number;
+  isHot: boolean;
+};
+Tech = {
+  name: "Mac Mini",
+  price: 69000,
+  isHot: false,
+};
+
 type Tea = {
   name: string;
   price: number;
