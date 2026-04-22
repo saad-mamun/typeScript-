@@ -1,24 +1,15 @@
-let tea: {
-  name: string;
-  price: number;
-  isHot: boolean;
-};
-tea = {
-  name: "Mac Mini",
-  price: 69000,
-  isHot: false,
-};
-
 let Tech: {
   name: string;
   price: number;
-  isHot: boolean;
+  inStock: boolean;
 };
 Tech = {
   name: "Mac Mini",
-  price: 69000,
-  isHot: false,
+  price: 70000,
+  inStock: false,
 };
+
+
 
 type Tea = {
   name: string;
