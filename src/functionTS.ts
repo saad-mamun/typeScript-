@@ -38,7 +38,7 @@ function orderChai(type: string = "MASALA" ) {
 function createChai(order: {
     type: string;
     sugar: number;
-    size: "small" | "large"
+    size: "Small" | "Large"
 }) : number{
     return 4
 }

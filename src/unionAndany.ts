@@ -22,15 +22,3 @@ console.log(currentOrder);
 
 
 
-// ata number othoba string hobe ata union er rule
-const NewOrders = ["12", "13", "15","45","32" ];
-let NewCurrentOrder: string | undefined;
-
-for (let order of NewOrders){
-    if(order === '15'){
-        NewCurrentOrder = order;
-        break
-    }
-    NewCurrentOrder = "3";
-}
-console.log(NewCurrentOrder);
