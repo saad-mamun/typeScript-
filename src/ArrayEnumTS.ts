@@ -1,4 +1,4 @@
-// const chaiFlavours: string[] = ["Masala", "Adrak"];
+const chaiFlavours: string[] = ["Masala", "Adrak","Lemon"];
 const chaiPrice: number[] = [10, 20];
 // nicher taw array
 const rating: Array<number> = [4.5, 6.3, 4];
