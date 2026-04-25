@@ -61,7 +61,7 @@ type User = {
     bio?: string;
 
 }
-const u1 : User = {username: "Liton"}
+const u1 : User = {username: "Liton AL Mamun"}
 const u2 : User = {username: "Liton", bio: "liton181.com"};
 
 
