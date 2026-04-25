@@ -14,6 +14,7 @@ const menu: Chai[] = [
 ];
 
 const cities: readonly string[] = ["Dhaka", "Rajshahi"];
+const HomeCities: readonly string[] = ["Cummilla", "Nowshara"];
 // cities.push("D");
 
 
