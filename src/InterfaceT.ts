@@ -52,7 +52,7 @@ interface User {
   age: number;
 }
 const u: User = {
-  name: "Liton",
+  name: "Saimon",
   age: 22,
 };
 
