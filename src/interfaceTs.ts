@@ -70,7 +70,7 @@ type Config = {
     age: number;
 }
 const cfg: Config = {
-    appName : "LitonAlMamun",
+    appName : "Liton Al Mamun",
     age: 21,
 }
 //  readonly use korar karone appName akbar usekora jabe.
