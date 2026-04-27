@@ -38,9 +38,9 @@ interface ChaiRating {
   [flavor: string]: number;
 }
 const rating: ChaiRating = {
-  masala: 2.3,
+  masala: 4.3,
   ginger: 4.5,
-  lemon: 3.8,
+  lemon: 4.8,
 };
 
 // Marge hoy jai
