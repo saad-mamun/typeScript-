@@ -30,7 +30,7 @@ function logChai(): void {
 // }
 
 // ataka default bole
-function orderChai(type: string = "MASALA" ) {
+function orderChai(type: string = "Masala" ) {
 
 }
 
