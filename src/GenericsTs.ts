@@ -10,7 +10,7 @@
     return [a, b]
  }
 
- pair('masala', 'lemon');
+ pair('masala', 'Lemon');
  pair('masala', 20);
  pair('masala', {flavor: "Ginger"});
 
