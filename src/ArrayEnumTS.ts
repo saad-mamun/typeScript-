@@ -28,7 +28,7 @@ const table: number[][] = [
 
 // Tuples.............................
 let chaiType: [string, number, boolean];
-chaiType = ["lemon", 2, true];
+chaiType = ["Lemon", 2, true];
 
 const ourReadonlyTuple: readonly [number, boolean, string] = [
   5,
@@ -56,8 +56,8 @@ enum Status {
 
 
 enum ChaiType {
-    MASALA = "masala",
-    GINGER = "ginger"
+    MASALA = "Masala",
+    GINGER = "Ginger"
 }
 function makeChai(type: ChaiType){
     console.log(`Making: ${type}`);
