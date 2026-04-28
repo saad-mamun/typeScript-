@@ -23,7 +23,7 @@ function orderChai(size: "small" | "medium" | "large" | number) {
 
 class KulhadChai {
   serve() {
-    return `Serving kulhad chai`;
+    return `Serving Majadhar chai`;
   }
 }
 class Cutting {
