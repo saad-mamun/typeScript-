@@ -1,5 +1,5 @@
 function greet(person: string):string {
-return `Hello ${person}, welcome to my universe`
+return `Hello ${person}, welcome to my Universe`
 }
 
 const username: string = "Liton"
