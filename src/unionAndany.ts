@@ -8,7 +8,7 @@ let airlineSet: 'aisle' | 'window' | 'middle' = 'window';
 airlineSet = 'aisle';
 
 
-const orders = ["12", "13", "15","45","32" ];
+const orders = ["10", "13", "15","45","32" ];
 let currentOrder: string | undefined;
 
 for (let order of orders){
