@@ -10,7 +10,7 @@ type Chai = {
 const menu: Chai[] = [
   { name: "Masala", price: 12 },
   { name: "Adrak", price: 15 },
-  { name: "Lemon", price: 18 }
+  { name: "Red", price: 18 }
 ];
 
 const cities: readonly string[] = ["Dhaka", "Rajshahi"];
