@@ -4,7 +4,7 @@ interface Chai {
   mild?: boolean;
 }
 const masala: Chai = {
-  flavor: "masala",
+  flavor: "Masala",
   price: 10,
 };
 
